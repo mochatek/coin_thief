@@ -4,7 +4,7 @@
 - Level/Map created using [Tiled Map Editor](https://www.mapeditor.org/)
 - The game is a basic platformer where player controls a thief, attempting to collect coins avoiding enemies and other obstacles.
 
-**Requirements :** [requirements.txt](https://www.microsoft.com/en-us/download/details.aspx?id=5721)
+**Requirements :** See [requirements.txt](https://github.com/mochatek/coin_thief/blob/master/requirements.txt)
 ---
 
 ### Screenshots :
