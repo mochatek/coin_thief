@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.4" orientation="orthogonal" renderorder="right-down" width="25" height="20" tilewidth="128" tileheight="128" infinite="0" nextlayerid="7" nextobjectid="1">
+ <tileset firstgid="1" name="my_tiles" tilewidth="128" tileheight="128" tilecount="13" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="128" height="128" source="res/boxCrate_double.png"/>
+  </tile>
+  <tile id="1">
+   <image width="128" height="128" source="res/coinGold.png"/>
+  </tile>
+  <tile id="2">
+   <image width="128" height="128" source="res/grassCenter.png"/>
+  </tile>
+  <tile id="3">
+   <image width="128" height="128" source="res/grassMid.png"/>
+  </tile>
+  <tile id="8">
+   <image width="128" height="128" source="res/dirtMid.png"/>
+  </tile>
+  <tile id="9">
+   <image width="128" height="128" source="res/cactus.png"/>
+  </tile>
+  <tile id="10">
+   <image width="128" height="128" source="res/grass_sprout.png"/>
+  </tile>
+  <tile id="12">
+   <image width="128" height="128" source="res/mushroomRed.png"/>
+  </tile>
+  <tile id="13">
+   <image width="128" height="128" source="res/stoneCenter.png"/>
+  </tile>
+  <tile id="14">
+   <image width="128" height="128" source="res/ladderTop.png"/>
+  </tile>
+  <tile id="18">
+   <image width="128" height="128" source="res/doorClosed_mid.png"/>
+  </tile>
+  <tile id="19">
+   <image width="128" height="128" source="res/doorClosed_top.png"/>
+  </tile>
+  <tile id="21">
+   <image width="128" height="128" source="res/keyRed.png"/>
+  </tile>
+ </tileset>
+ <layer id="1" name="Platform" width="25" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztkUEOwCAIBDHtpW30/8/tdUNAoIKnbjInNw7oIKKxgcr8jrhj5Q8bgPdmOrx7VCbTIb1ZtkPLiqORPnuWw5uI4wSqHAfQgzPNHNhDh7VPZ33NcbOexOOciTu0ngTfR+txh3XvzGWde2f/wrWBF1CMBss=
+  </data>
+ </layer>
+ <layer id="6" name="Exit" width="25" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFpAAROtghTAc7RsEoGAWjYBQMLwAAAtMAKA==
+  </data>
+ </layer>
+ <layer id="5" name="Ladder" width="25" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4B6gH/UjlE7Ru0YBaNgQAAA988AeQ==
+  </data>
+ </layer>
+ <layer id="4" name="Coins" width="25" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFgxkwEUlj0wMDYtR21DAD+MJysAMmhqHr7sEESHEPLrUD6Sdi7aaGP2kBaOH+kQgAHT8APQ==
+  </data>
+ </layer>
+</map>
